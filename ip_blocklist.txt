@@ -433,3 +433,7 @@
 77.91.71.32
 # auto-blocked by KimeReactor - rule 101029 distributed VPN auth brute-force, Data Center IP (case 19fcd011-3f62-4110-8910-e58025376094)
 23.234.100.44
+# auto-blocked by KimeReactor - rule 101029 distributed VPN auth brute-force, Data Center IP (case a119c8b6-0c81-4ad8-a262-a6bab03c0214)
+151.240.52.27
+# auto-blocked by KimeReactor - rule 101029 distributed VPN auth brute-force, Data Center IP (case a119c8b6-0c81-4ad8-a262-a6bab03c0214)
+185.136.15.52
