@@ -445,3 +445,5 @@
 142.252.246.214
 # auto-blocked by KimeReactor - rule 101029 distributed VPN auth brute-force, Data Center IP (case df5e640c-2c04-42af-b63a-4a72c08df2c3)
 185.136.15.23
+# auto-blocked by KimeReactor - rule 101034 persistent probing, threat_score above threshold, unknown scanner ASN (case 3eefd0bf-8084-4583-9b98-f18cd05c90ac)
+199.45.154.122
