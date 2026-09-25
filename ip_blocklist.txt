@@ -447,3 +447,5 @@
 185.136.15.23
 # auto-blocked by KimeReactor - rule 101034 persistent probing, threat_score above threshold, unknown scanner ASN (case 3eefd0bf-8084-4583-9b98-f18cd05c90ac)
 199.45.154.122
+# auto-blocked by KimeReactor - rule 101034 persistent probing, threat_score above threshold, unknown scanner ASN (case 490c7c0d-3491-4190-a0e7-7da976994548)
+199.45.155.18
